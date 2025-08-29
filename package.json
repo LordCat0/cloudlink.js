@@ -1,8 +1,8 @@
 {
   "name": "cloudlink.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily host and connect to cloudlink 4 servers",
-  "main": "browser.js",
+  "main": "index.js",
   "browser": "browser.js",
   "scripts": {
     "test": "node test.js"
