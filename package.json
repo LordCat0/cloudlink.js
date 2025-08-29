@@ -1,0 +1,28 @@
+{
+  "name": "cloudlink.js",
+  "version": "1.0.0",
+  "description": "Easily host and connect to cloudlink 4 servers",
+  "main": "browser.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordCat0/cloudlink.js.git"
+  },
+  "keywords": [
+    "cloudlink",
+    "scratch"
+  ],
+  "author": "LordCat0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LordCat0/cloudlink.js/issues"
+  },
+  "homepage": "https://github.com/LordCat0/cloudlink.js#readme",
+  "dependencies": {
+    "uuid": "^11.1.0",
+    "ws": "^8.18.3"
+  }
+}
